@@ -16,7 +16,7 @@ certifi==2024.7.4
 cffi @ file:///croot/cffi_1714483155441/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
 chroma-hnswlib==0.7.6
-chromadb @ git+https://github.com/luthfibalaka/chroma.git@3cbf2bdedaa7383f1385f4ff08c5bdd1b2ccbde1
+chromadb
 click==8.1.7
 colorama==0.4.6
 coloredlogs==15.0.1
