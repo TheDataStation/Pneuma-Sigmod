@@ -1,6 +1,6 @@
 # Pneuma-Summarizer
 
-We provide the scripts to generate all summaries used in our experiments, all of which has this naming convention: `[batch_]generate_content_summary_[].py`. You may download the generated row and schema summaries using `summaries/downloader.ipynb`. Alternatively, you can generate the summaries manually by running the following scripts:
+We provide the scripts to generate all summaries used in our experiments, all of which has this naming convention: `[batch_]generate_content_summary_[].py`. You may download the generated row and schema summaries using the instructions in `summaries/`. Alternatively, you can generate the summaries manually by running the following scripts:
 
 ```bash
 pip install -r requirements.txt
