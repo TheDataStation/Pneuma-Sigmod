@@ -1,5 +1,5 @@
-Download context benchmarks by run
+Download summaries by run
 ```
 ./download.sh
 ```
-The 5 context datasets will be downloaded to the folder "summaries"
+Summaries of the 5 datasets will be downloaded to the folder "summaries"
