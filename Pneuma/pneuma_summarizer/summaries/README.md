@@ -1,1 +1,5 @@
-Download the zip file from [this folder](https://drive.google.com/file/d/1f3WLMv4VN851D3cCjaHPCOE7Y07NJxwf/view?usp=sharing), then unzip it here.
+Download context benchmarks by run
+```
+./download.sh
+```
+The 5 context datasets will be downloaded to the folder "summaries"
