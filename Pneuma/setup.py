@@ -20,7 +20,7 @@ setup(
     version=VERSION,
     author="Author",
     author_email="name@mail.com",
-    url="https://github.com/TheDataStation/Pneuma",
+    url="url",
     description="Pneuma is a Python package for indexing and querying tables.",
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
